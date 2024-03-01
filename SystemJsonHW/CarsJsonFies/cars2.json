@@ -1,0 +1,502 @@
+[
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "R-Class",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Challenger",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Tiburon",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Dakota",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Prix",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "Eldorado",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Cabriolet",
+    "Date": 1985
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Titan",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Eurovan",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "QX",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Titan",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Tahoe",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "SRX",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Dakota Club",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Sable",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Bronco II",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Skyhawk",
+    "Date": 1985
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Precis",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Grand Caravan",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Sonata",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Familia",
+    "Date": 1985
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Rally Wagon 2500",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Century",
+    "Date": 1985
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Element",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "Swift",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "C-MAX Hybrid",
+    "Date": 2013
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Escape",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Equinox",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F-Series",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "CLK-Class",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F350",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Forester",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Corolla",
+    "Date": 1996
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Terrain",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Golf",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Grand Marquis",
+    "Date": 1998
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "3 Series",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "V70",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Tracker",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Silhouette",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 1991
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "3500",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Aspire",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Sportvan G20",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Maybach",
+    "Model": "62",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Prix",
+    "Date": 1996
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "6 Series",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Porsche",
+    "Model": "911",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Miata MX-5",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Highlander",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Rio",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 1500",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Lumina",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Caravan",
+    "Date": 2001
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Sierra 3500",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Laser",
+    "Date": 1984
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Grand Caravan",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "Integra",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Blazer",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "S10",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "Sidekick",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Mountaineer",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Miata MX-5",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "Quattro",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "4Runner",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "RL",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 2500",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Brat",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Paseo",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Optima",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Montana",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "LR2",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Golf",
+    "Date": 1983
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Bravada",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Pajero",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Mentor",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "600SL",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Impreza",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Caravan",
+    "Date": 2000
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "3500",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F250",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Expedition",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Fusion",
+    "Date": 2013
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Elantra",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "CLK-Class",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "CL-Class",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Galant",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "RL",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "V50",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Esprit",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Firebird",
+    "Date": 1967
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Mazda5",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "E-Class",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Elantra",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "4Runner",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Odyssey",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Maxima",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram Van 3500",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Accent",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Tucson",
+    "Date": 2007
+  }
+]

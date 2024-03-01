@@ -1,0 +1,502 @@
+[
+  {
+    "Vendor": "Jeep",
+    "Model": "Wrangler",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Sequoia",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Avalanche 1500",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Maxima",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Silverado 2500",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "S10",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Lamborghini",
+    "Model": "Gallardo",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Prix",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "riolet",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Lincoln",
+    "Model": "Navigator",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Skylark",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "JUKE",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Bronco",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Express 3500",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "PT Cruiser",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Impala",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "Q",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Silhouette",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Pathfinder",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "E-Class",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "ES",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Maybach",
+    "Model": "57",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 3500",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Pathfinder",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Camaro",
+    "Date": 1976
+  },
+  {
+    "Vendor": "Maybach",
+    "Model": "57",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "PT Cruiser",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Ram",
+    "Model": "C/V",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Cabriolet",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Prius Plug-in",
+    "Date": 2012
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Yukon XL 1500",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Aston Martin",
+    "Model": "Vantage",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Altima",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Bentley",
+    "Model": "Continental Super",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "Town & Country",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Tacoma",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "GS",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "NSX",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Sentra",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Range Rover",
+    "Date": 1991
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Yukon",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Thunderbird",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Isuzu",
+    "Model": "Rodeo",
+    "Date": 2003
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "1500",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "Coupe Quattro",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Equinox",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "SVX",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "GX",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Loyale",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Bonneville",
+    "Date": 1991
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Viper RT/10",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "QX",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Malibu",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Challenger",
+    "Date": 2001
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Sierra 3500",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Maserati",
+    "Model": "Spyder",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Skylark",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "Seville",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Saturn",
+    "Model": "VUE",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "Forenza",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Maserati",
+    "Model": "Quattroporte",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Lamborghini",
+    "Model": "Gallardo",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Saab",
+    "Model": "9000",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Am",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "GT-R",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Malibu",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "E-Class",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Lincoln",
+    "Model": "Navigator L",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Esprit",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "Town & Country",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Legacy",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Gemini",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Jeep",
+    "Model": "Grand Cherokee",
+    "Date": 2000
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "X6 M",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 2500",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Edge",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Lincoln",
+    "Model": "Aviator",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Camry Hybrid",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "DeVille",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Neon",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Tracer",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Sorento",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "del Sol",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "LS",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "CC",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "Escalade EXT",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "HHR",
+    "Date": 2006
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "545",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "J",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Express 3500",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "V70",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Familia",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "Catera",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "L300",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "V70",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Ranger",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "B-Series",
+    "Date": 2000
+  }
+]

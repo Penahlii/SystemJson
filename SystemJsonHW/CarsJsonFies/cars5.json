@@ -1,0 +1,502 @@
+[
+  {
+    "Vendor": "Chrysler",
+    "Model": "Sebring",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "IS",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Avalanche 1500",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Xterra",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Porsche",
+    "Model": "Boxster",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "B-Series",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Tribeca",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Tacoma",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Silverado 2500",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Hummer",
+    "Model": "H3",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram Van 1500",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Type 2",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "D250 Club",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "LeMans",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "ZX2",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Camaro",
+    "Date": 1973
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "960",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Holden",
+    "Model": "VS Commodore",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "XC70",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "940",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "A6",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 1500",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Trans Sport",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "960",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F250",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Am",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "C70",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Freelander",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "ZDX",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Mighty Max Macro",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Accord Crosstour",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "Aerio",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Ferrari",
+    "Model": "California",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Impreza",
+    "Date": 1994
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Sierra 2500",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Dakota",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "C-MAX Hybrid",
+    "Date": 2013
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "4000CS Quattro",
+    "Date": 1986
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "A8",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Aztek",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "XL7",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "Town & Country",
+    "Date": 1995
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Rally Wagon 3500",
+    "Date": 1992
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "X6",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Routan",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Bentley",
+    "Model": "Continental Flying Spur",
+    "Date": 2006
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Safari",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Elantra",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Pathfinder",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "XC70",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 2010
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Suburban 1500",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Tiburon",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Element",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Saturn",
+    "Model": "Sky",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Outlander",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Armada",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Civic",
+    "Date": 1991
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "CX-9",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram Van 1500",
+    "Date": 1995
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "M3",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "CR-V",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Insight",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Pilot",
+    "Date": 2004
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Yukon",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Camaro",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Veracruz",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Probe",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F250",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Camaro",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Escort",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Charger",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Journey",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Shadow",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "300SE",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "Q",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "D150",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F-Series",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G35",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Millenia",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Lincoln",
+    "Model": "Mark VIII",
+    "Date": 1996
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "8 Series",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Golf",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "MX-5",
+    "Date": 1991
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "SC",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Tacoma Xtra",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Mazda5",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Esprit",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Impreza",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "323",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Lancer",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "LTD Crown Victoria",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "MR2",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Lincoln",
+    "Model": "Town Car",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Isuzu",
+    "Model": "Oasis",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Honda",
+    "Model": "Accord",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Hummer",
+    "Model": "H1",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Chrysler",
+    "Model": "Town & Country",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "300ZX",
+    "Date": 1996
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "Vendor": "Kia",
+    "Model": "Sedona",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Mustang",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "SX4",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Tempest",
+    "Date": 1961
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Bronco II",
+    "Date": 1989
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "1500 Club Coupe",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Maserati",
+    "Model": "Quattroporte",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Legacy",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 1500",
+    "Date": 2007
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "600",
+    "Date": 1959
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "330",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Avalanche 2500",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Freelander",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Intrigue",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Dakota Club",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Crown Victoria",
+    "Date": 2007
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Savana 1500",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "HHR",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Reatta",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Range Rover",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Tacoma Xtra",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "Millenia",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Durango",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Isuzu",
+    "Model": "Trooper",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Spectra",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "4000s",
+    "Date": 1986
+  },
+  {
+    "Vendor": "Porsche",
+    "Model": "Cayenne",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "RAV4",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "TrailBlazer",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Endeavor",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "MPV",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Econoline E250",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Bentley",
+    "Model": "Continental",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Jaguar",
+    "Model": "XK",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Brat",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "QX56",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "G-Series 2500",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Parisienne",
+    "Date": 1985
+  },
+  {
+    "Vendor": "Bentley",
+    "Model": "Azure",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Lexus",
+    "Model": "IS F",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Spectra",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Durango",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "Maxima",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "A4",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Sephia",
+    "Date": 1996
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Canyon",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Villager",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "XC90",
+    "Date": 2009
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "Vendor": "BMW",
+    "Model": "5 Series",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Exige",
+    "Date": 2007
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Sonoma",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "A4",
+    "Date": 1997
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Charger",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Aston Martin",
+    "Model": "DB9 Volante",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Montero Sport",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Hyundai",
+    "Model": "Elantra",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Regal",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "6000",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "SJ",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Citroën",
+    "Model": "SM",
+    "Date": 1972
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "E-Series",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Sunfire",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "626",
+    "Date": 1983
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "LR2",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Pajero",
+    "Date": 1984
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "XLR-V",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "4Runner",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Discovery Series II",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Ciera",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Kia",
+    "Model": "Sportage",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F150",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Studebaker",
+    "Model": "Avanti",
+    "Date": 1962
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "GTI",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Exige",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Grand Marquis",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Jetta",
+    "Date": 1985
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Tracer",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Impreza",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Bronco II",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "STS-V",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Nissan",
+    "Model": "GT-R",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Jeep",
+    "Model": "Grand Cherokee",
+    "Date": 1994
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Savana 2500",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Isuzu",
+    "Model": "VehiCROSS",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "Electra",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "W201",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Alfa Romeo",
+    "Model": "164",
+    "Date": 1993
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "QX56",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Bel Air",
+    "Date": 1967
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Alero",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Jeep",
+    "Model": "Compass",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Buick",
+    "Model": "LeSabre",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Rolls-Royce",
+    "Model": "Ghost",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Expedition",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Suzuki",
+    "Model": "XL-7",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "S4",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Avalon",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "Expedition",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Infiniti",
+    "Model": "G",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Grand Caravan",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Oldsmobile",
+    "Model": "Achieva",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Land Rover",
+    "Model": "Range Rover",
+    "Date": 1989
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Suburban 2500",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Jaguar",
+    "Model": "XJ Series",
+    "Date": 1994
+  },
+  {
+    "Vendor": "Mercury",
+    "Model": "Villager",
+    "Date": 1998
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Golf",
+    "Date": 1999
+  },
+  {
+    "Vendor": "Dodge",
+    "Model": "Ram 3500",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Mazda",
+    "Model": "929",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Toyota",
+    "Model": "Corolla",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Isuzu",
+    "Model": "Impulse",
+    "Date": 1992
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Outlander",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Legacy",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F150",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Jaguar",
+    "Model": "XK Series",
+    "Date": 1997
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Yukon",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Lotus",
+    "Model": "Esprit",
+    "Date": 1996
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "CL-Class",
+    "Date": 2000
+  },
+  {
+    "Vendor": "Volkswagen",
+    "Model": "Passat",
+    "Date": 1988
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "S80",
+    "Date": 2009
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "7 Series",
+    "Date": 2010
+  },
+  {
+    "Vendor": "Saab",
+    "Model": "9000",
+    "Date": 1989
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F150",
+    "Date": 2001
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Montero",
+    "Date": 2000
+  },
+  {
+    "Vendor": "BMW",
+    "Model": "M3",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "TL",
+    "Date": 2007
+  },
+  {
+    "Vendor": "Scion",
+    "Model": "xD",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Maybach",
+    "Model": "57",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Equinox",
+    "Date": 2006
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "G-Class",
+    "Date": 2011
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "CL-Class",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Chevrolet",
+    "Model": "Tahoe",
+    "Date": 2005
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "MDX",
+    "Date": 2002
+  },
+  {
+    "Vendor": "Subaru",
+    "Model": "Loyale",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Grand Am",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Pontiac",
+    "Model": "Bonneville",
+    "Date": 1986
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Sierra 3500",
+    "Date": 2004
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Vandura G3500",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Montero Sport",
+    "Date": 2000
+  },
+  {
+    "Vendor": "GMC",
+    "Model": "Safari",
+    "Date": 1995
+  },
+  {
+    "Vendor": "Acura",
+    "Model": "Legend",
+    "Date": 1990
+  },
+  {
+    "Vendor": "Panoz",
+    "Model": "Esperante",
+    "Date": 2008
+  },
+  {
+    "Vendor": "Maybach",
+    "Model": "62",
+    "Date": 2004
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "E150",
+    "Date": 2003
+  },
+  {
+    "Vendor": "Mercedes-Benz",
+    "Model": "R-Class",
+    "Date": 2009
+  },
+  {
+    "Vendor": "Volvo",
+    "Model": "XC90",
+    "Date": 2012
+  },
+  {
+    "Vendor": "Mitsubishi",
+    "Model": "Galant",
+    "Date": 1987
+  },
+  {
+    "Vendor": "Cadillac",
+    "Model": "SRX",
+    "Date": 2007
+  }
+]
